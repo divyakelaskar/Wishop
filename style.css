@@ -1,3 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
-    background-color: #FFF2EA;
+    background-color: #fff7f2;
+}
+
+#topcorner-circle {
+    width: 80vh;
+    height: 80vh;
+    border-radius: 0% 0% 150% 0%;
+    background: #fff2e8;
 }
